@@ -1,6 +1,7 @@
 # HR Dashboard: Employee Insights & Demographics
 
 
+![hr_dashboard_gif](https://github.com/user-attachments/assets/1f05068a-e1c6-4781-9f69-3a0044cc92f3)
 
 
 ## Project Overview
@@ -26,3 +27,4 @@ A filter button allows analysts to customize their view, adjusting the data to f
 
 
 
+![hr_dashboard](https://github.com/user-attachments/assets/e28b1879-3a90-4620-8cb2-04ce8788c6d4)
