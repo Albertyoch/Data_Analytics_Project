@@ -6,7 +6,7 @@
 
 ## Project Overview
 This project is an **HR Dashboard** developed using **Python** and **Tableau**, with data generated through **ChatGPT**. The dashboard provides comprehensive insights into employee statistics, helping HR analysts make informed decisions and explore trends across various dimensions.
-
+interactive dashboard through this [link](https://public.tableau.com/app/profile/albertyo.chandra/viz/most_upd_hr/Dashboard?publish=yes)
 ## Dashboard Features
 ### Left Side: Employee Overview
 #### Key Metric :
